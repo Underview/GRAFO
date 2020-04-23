@@ -1,0 +1,3 @@
+C:/Users/hanan/OneDrive/Desktop/APA/cmake-build-debug/CMakeFiles/APA.dir
+C:/Users/hanan/OneDrive/Desktop/APA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hanan/OneDrive/Desktop/APA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
